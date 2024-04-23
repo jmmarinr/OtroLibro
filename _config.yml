@@ -1,7 +1,8 @@
 # Book settings
 title: Laboratorio Integrado
 author: Juan Marcos Marín / Universidad de Antioquia
-logo: content\local\imgs\facultad-exactas+(1).png
+logo: content/local/imgs/facultad-exactas+(1).png
+
 
 repository:
    url: 
