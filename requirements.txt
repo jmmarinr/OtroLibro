@@ -6,3 +6,4 @@ matplotlib
 scipy
 jupyter-book
 sympy
+jinja2==3.0.3
