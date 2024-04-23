@@ -1,2 +1,5 @@
+format: jb-book
+root: index
+
 - file: intro
 - file: content/Seccion
