@@ -1,4 +1,9 @@
-jupyter-book==0.10.2
-jinja2==3.0.3
-matplotlib
+pandas
 numpy
+datascience
+folium
+matplotlib
+nbinteract
+scipy
+jupyter-book
+sympy
